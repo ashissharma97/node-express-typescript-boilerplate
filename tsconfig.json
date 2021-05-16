@@ -1,0 +1,16 @@
+{  
+  "compilerOptions": {
+    "types": ["node"],
+    "target": "es6",  
+    "module": "commonjs",  
+    "rootDir": "src",  
+    "outDir": "build",  
+    "sourceMap": false,  
+    "resolveJsonModule": true,  
+    "lib": ["es6"],  
+    "esModuleInterop": true  
+  },
+  "include": [  
+    "src/**/*",
+  ],
+}  
